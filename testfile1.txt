@@ -1,3 +1,4 @@
 Test file line 1
 Test file line 2 -- this is change from master
 Test file line 3
+New line 4
